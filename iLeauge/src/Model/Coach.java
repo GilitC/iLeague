@@ -2,7 +2,6 @@ package Model;
 
 import java.util.Date;
 import java.util.HashSet;
-//This is a stupid comment
 import utils.E_Levels;
 
 /**
